@@ -202,7 +202,7 @@ And that’s when someone said:
 # And thus, the idea of `reseal-all` was born.
 
 ***
-# Implementing reseal-all: Automating SealedSecrets Rotation in kubeseal CLI 🚀
+# Implementing reseal-all: Automating SealedSecrets Rotation in kubeseal CLI
 ***
 ## Introduction
 It all started with a silent threat — one hiding in plain sight.
@@ -440,7 +440,7 @@ With `reseal-all`, the `kubeseal` CLI evolves from a manual encryption tool into
 Because in Kubernetes, automation isn’t just a best practice — it’s the only safe path forward.
 
 ***
-# How to use `reseal-all` Command 🕹️
+# How to use `reseal-all` Command 
 > (Re-encrypt SealedSecrets After Key Rotation)
 
 ## Overview
