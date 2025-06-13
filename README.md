@@ -1,4 +1,4 @@
-## Thank you for taking the time to review this task. I appreciate your attention and effort.
+
 ## References 🌟 
 
 - [Implementation Section](#Implementing-reseal-all-Automating-SealedSecrets-Rotation-in-kubeseal-CLI)  🚀
